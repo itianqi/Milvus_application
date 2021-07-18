@@ -1,0 +1,4 @@
+# Milvus_application
+NLP+Milvus 搜索评论数据中相似的评论
+
+文件中有两种模型 就只是挑了一种BiLSM将文本转化为向量，应用Milvus主要在convert_text_to_tensor文件中
